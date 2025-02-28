@@ -55,7 +55,7 @@ This will start the application and begin counting people from your webcam or vi
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/lingeswaran2018/people-counting.git
+git clone https://github.com/lingeswaran2018/senzmate_bootcamp_project.git
 cd people-counting
 ```
 
